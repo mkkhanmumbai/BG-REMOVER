@@ -1,0 +1,6 @@
+{
+  "name": "AI Background Remover & 227x253 Resizer",
+  "description": "Upload up to 10 photos, automatically remove their backgrounds, and crop/adjust to exactly 227x253 pixels. Save individually or download all as a ZIP in PNG format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

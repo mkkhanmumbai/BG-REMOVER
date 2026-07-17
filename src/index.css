@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+.sleek-radial-grid {
+  background-image: radial-gradient(#4f46e5 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.viewport-frame {
+  outline: 2px solid #4f46e5;
+  outline-offset: 4px;
+  box-shadow: 0 0 0 1000px rgba(15, 23, 42, 0.7);
+}
